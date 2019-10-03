@@ -1,0 +1,96 @@
+{
+  "users": {
+  },
+  "layers": [
+    {
+      "id": 1,
+      "title": "positive-layer-2"
+    },
+    {
+      "id": 2,
+      "title": "positive-layer-1"
+    },
+    {
+      "id": 3,
+      "title": "neutral-layer"
+    },
+    {
+      "id": 4,
+      "title": "negative-layer-1"
+    },
+    {
+      "id": 5,
+      "title": "negative-layer-2"
+    },
+    {
+      "id": 6,
+      "title": "beats-drums"
+    }
+  ],
+  "moods" : [
+    {
+      "id": 1,
+      "state": "neutral"
+    },
+    {
+      "id": 2,
+      "state": "calm-relaxed"
+    },
+    {
+      "id": 3,
+      "state": "excited"
+    },
+    {
+      "id": 4,
+      "state": "agitated"
+    },
+    {
+      "id": 5,
+      "state": "anticipation"
+    },
+    {
+      "id": 6,
+      "state": "curious"
+    },
+    {
+      "id": 7,
+      "state": "happy-ecstatic"
+    },
+    {
+      "id": 8,
+      "state": "determined"
+    }
+  ],
+  "vitals" : [
+    {
+      "id": 1,
+      "pulse": 1
+    },
+    {
+      "id": 2,
+      "temperature": 1
+    },
+    {
+      "id": 3,
+      "blood-pressure": 1
+    },
+    {
+      "id": 4,
+      "respiration": 1
+    }
+  ],
+  "other" : [
+    {
+      "id": 1,
+      "location": "Home"
+    },
+    {
+      "id": 2,
+      "calendar": "Open"
+    },
+    {
+      "id": 3,
+      "speedometer": 1
+    }
+  ]
+}

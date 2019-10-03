@@ -1,0 +1,8 @@
+{
+  "name": "smyl-firebase-cloud-functions",
+  "description": "Soundtrack my Life",
+  "dependencies": {
+    "firebase-admin": "^7.2.0",
+    "firebase-functions": "^2.2.1"
+  }
+}
